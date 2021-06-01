@@ -1,0 +1,8 @@
+add_subdirectory( 01_creation_window )
+add_subdirectory( 02_shader_point )
+add_subdirectory( 03_catch_errors )
+add_subdirectory( 04_shader_file )
+add_subdirectory( 05_triangle )
+add_subdirectory( 06_simple_animation )
+add_subdirectory( 07_point_animation )
+add_subdirectory( 08_isosceles_triangle )
